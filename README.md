@@ -1,4 +1,4 @@
-🖐¡Hola!🖐 Soy Ivan👦, Un Desarrollador Web Fullstack y Analista en Sistemas 📚. Mi pasión por la programación surgió en mis años de estudio para ser analista en sistemas el cual me atrajo debido a mi gusto por los avances e innovaciones 🤖.
+🖐¡Hola!🖐 Soy Lucas 👦, Un Desarrollador Web Fullstack y Analista en Sistemas 📚. Mi pasión por la programación surgió en mis años de estudio para ser analista en sistemas el cual me atrajo debido a mi gusto por los avances e innovaciones 🤖.
 
 🖥Tecnologías que utilizo⌨
 🌌 JavaScript 🌌 React 🌌 Redux 
@@ -6,4 +6,4 @@
 🌌 PostgreSQL 🌌 MySQL
 
 📩 No dudes en comunicarte 📩
-Correo: ivan.nicolas.valero.11@gmail.com
+Correo: lucas.rojo.180@gmail.com
