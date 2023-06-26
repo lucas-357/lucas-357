@@ -7,3 +7,4 @@
 
 📩 No dudes en comunicarte 📩
 Correo: lucas.rojo.180@gmail.com
+Linkedin: https://www.linkedin.com/in/lucas-rojo/
